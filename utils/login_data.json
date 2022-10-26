@@ -1,0 +1,12 @@
+{
+    "1":{
+        "email":"pragya@gmail.com",
+        "password":"0987",
+        "name":"Pragya"
+    },
+    "2":{
+        "email":"sakshi@gmail.com",
+        "password":"6543",
+        "name":"Sakshi"
+    }
+}
